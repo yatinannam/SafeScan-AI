@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SafeScan AI",
+  "description": "A security-focused assistant that analyzes emails, SMS, and URLs to detect potential phishing and scams using Gemini 2.5.",
+  "requestFramePermissions": []
+}
